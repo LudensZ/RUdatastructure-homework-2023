@@ -1,2 +1,2 @@
 # RUdatastructure-homework-2023
-the title is pretty self-explaintory.
+the title is self-explaintory.
